@@ -1,0 +1,32 @@
+h2 {
+	color: #4aaaa5;
+}
+
+.navbar-brand {
+	background-color: #4aaaa5;
+	color: white;
+}
+
+#about {
+	height:477px;
+	width:650px;
+	border: 2px solid #dddddd;
+}
+
+.page-header {
+	margin: 20px;
+}
+
+p {
+	float:left;
+}
+#image {
+	float: left;
+	margin: 0 10px 10px 10px;
+}
+
+#contact {
+	height: 200px;
+	width: 250;
+	border: 2px solid #dddddd;
+}
