@@ -50,32 +50,58 @@ p {
 	margin: 10px 25px 10px 25px;
 }
 
+#textarea {
+	height: 40px;
+}
+
 #portfolio {
 
-	height:700px;
+	height:720px;
 	width:600px;
 	background-color: white;
 	border: 2px solid #dddddd;
 }
 
 #portpic1 {
-	margin: 10px 25px 10px 25px;
+	padding: 15px;
+	float:left;
+	position: relative;
+}
+
+#porttext {
+	position: absolute;
+	top:120px;
+	left:10px;
+	width:100%;
+	
+}
+
+h3 span{
+	color: white;
+	font: bold 24px/45px Helvetica, Sans-serif;
+	letter-spacing: -1px;
+	background: #4aaaa5;
+	padding:10px;
 }
 
 #portpic2 {
-	margin: 10px 25px 10px 25px;
+	padding: 15px;
+	float:right;
 }
 
 #portpic3 {
-	margin: 10px 25px 10px 25px;
+	padding: 15px;
+	float:left;
 }
 
 #portpic4 {
-	margin: 10px 25px 10px 25px;
+	padding: 15px;
+	float:right;
 }
 
 #portpic5 {
-	margin: 10px 25px 10px 25px;
+	padding: 15px;
+	float:left;
 }
 
 body {
