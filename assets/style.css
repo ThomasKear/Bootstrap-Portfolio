@@ -18,6 +18,9 @@ body {
 	flex: 0 0 auto;
 }
 
+#headername {
+	margin-left: 20px
+}
 #about {
 	display:inline-block;
 	position:relative;
@@ -35,6 +38,8 @@ body {
 
 
 #image {
+	width:100%;
+	height:auto;
 	float: left;
 	margin: 0 10px 10px 10px;
 }
